@@ -1,0 +1,38 @@
+h1 {
+    margin: 15px;
+  padding: 12px 18px;
+  font-family: 'Chelsea Market';
+  text-align: center;
+  font-size: 100px;
+}
+button {
+  margin: 15px;
+  padding: 12px 18px;
+  border: 1px solid #4A37E7;
+  background: #4A37E7;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+  font-family: 'Chelsea Market';
+}
+.islandName {
+  margin: 15px;
+  padding: 12px 18px;
+  font-size: 18px;
+  font-family: 'Chelsea Market';
+}
+
+.card-container {
+  padding: 30px;
+}
+
+p{
+  font-family: 'Chelsea Market';
+  font-size: 25px;
+}
+body {
+  background-image: url('https://nintendowire.com/wp-content/uploads/2020/02/Walmart-AnimalCrossing-NewHorizons-Wallpaper-Nooks-KKSlider-Isabelle.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
